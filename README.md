@@ -8,8 +8,8 @@ At BluSmart, we believe open-source collaboration is essential for innovation an
 
 ### 📢 Connect with Us:
 - 🌐 [Website](https://blu-smart.com)  
-- 🐦 [Twitter](https://twitter.com/blusmartmobility)  
-- 📸 [Instagram](https://instagram.com/blusmartmobility)  
-- 💼 [LinkedIn](https://linkedin.com/company/blusmart)  
+- 🐦 [X](https://twitter.com/BluSmartIndia)  
+- 📸 [Instagram](https://instagram.com/BluSmart)  
+- 💼 [LinkedIn](https://linkedin.com/company/blu-smart-mobility)  
 
 Let’s innovate together for a sustainable tomorrow! 🔋💡  
